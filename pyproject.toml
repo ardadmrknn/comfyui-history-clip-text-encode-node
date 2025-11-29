@@ -28,7 +28,7 @@ Documentation = "https://github.com/ardadmrknn/comfyui-history-clip-text-encode-
 "Bug Tracker" = "https://github.com/ardadmrknn/comfyui-history-clip-text-encode-node/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "ardadmrknn"
 DisplayName = "comfyui-history-clip-text-encode-node"
 Icon = ""
 includes = [] 
